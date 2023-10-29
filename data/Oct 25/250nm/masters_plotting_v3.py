@@ -41,7 +41,7 @@ def plot(x, y, savefile, date, avg, std, var, wavelength):
     plt.xlabel('Time in minutes')
     plt.ylabel('Measured current in pico amps (pA, 1e-12A)')
     plt.figtext(0.61,0.97,'Data collected on ' + str(date))
-    plt.figtext(0,-0.02,'Note: Data collected over 10 hour with intervals of 30s between each measurement')
+    plt.figtext(0,-0.02,'Note: Data collected over 10 mins with intervals of 30s between each measurement')
     plt.figtext(0, -0.06, '20 measurements in total')
     plt.figtext(0.92, 0.75, 'mean: '+ str(avg)+' 1e-12')
     plt.figtext(0.92, 0.70, 'std: '+ str(std)+' 1e-12')
