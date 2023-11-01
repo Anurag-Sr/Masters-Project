@@ -1,0 +1,4 @@
+Information of mean, variance and standard deviation of measurement
+wavelength 800nm
+mean 0.2719 +/- 0.00433 $\mu$A 1e-6
+variance 1.88e-05 1e-6

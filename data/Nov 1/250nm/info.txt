@@ -1,0 +1,4 @@
+Information of mean, variance and standard deviation of measurement
+wavelength 250nm
+mean 0.003511 +/- 8.23e-05 $\mu$A 1e-6
+variance 6.77e-09 1e-6

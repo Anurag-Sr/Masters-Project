@@ -1,0 +1,4 @@
+Information of mean, variance and standard deviation of measurement
+wavelength 200nm
+mean 0.001184 +/- 2.41e-05 $\mu$A 1e-6
+variance 5.83e-10 1e-6

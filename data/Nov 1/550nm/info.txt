@@ -1,0 +1,4 @@
+Information of mean, variance and standard deviation of measurement
+wavelength 550nm
+mean 0.3934 +/- 0.00806 $\mu$A 1e-6
+variance 6.5e-05 1e-6

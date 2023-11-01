@@ -1,0 +1,4 @@
+Information of mean, variance and standard deviation of measurement
+wavelength 450nm
+mean 0.3079 +/- 0.00568 $\mu$A 1e-6
+variance 3.22e-05 1e-6
