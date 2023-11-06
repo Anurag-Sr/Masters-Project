@@ -1,0 +1,4 @@
+Information of mean, variance and standard deviation of measurement
+wavelength 880nm
+mean 1.635 +/- 0.00922 $\mu$A 1e-6
+variance 8.5e-05 1e-6
